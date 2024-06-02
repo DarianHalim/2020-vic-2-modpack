@@ -1,0 +1,15 @@
+name = "2nd Erie Conquest of Wenrohonon"
+
+1788.11.6 = {
+	add_attacker = ERY
+	add_defender = WNR
+	add_defender = SUS
+	add_defender = CYG
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = ERY
+		receiver = WNR
+		state_province_id = 236
+	}
+}

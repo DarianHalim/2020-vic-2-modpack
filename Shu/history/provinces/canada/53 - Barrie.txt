@@ -1,0 +1,7 @@
+owner=NEW
+controller=ATW
+add_core=NEW
+add_core=OTT
+trade_goods = grain
+life_rating = 35
+terrain = forest

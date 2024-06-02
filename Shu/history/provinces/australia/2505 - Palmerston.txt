@@ -1,0 +1,11 @@
+owner=X10
+controller=X10
+add_core=ABO
+add_core=AUL
+add_core=AUY
+add_core=TIW
+add_core=X10
+trade_goods = grain
+life_rating = 20
+terrain = hills
+naval_base = 1

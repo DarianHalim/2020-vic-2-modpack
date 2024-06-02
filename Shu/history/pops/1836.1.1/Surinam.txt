@@ -1,0 +1,221 @@
+2240 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2998
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 4510
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 157
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 32
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = inti
+		size= 63
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = inti
+		size= 283
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = inti
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = inti
+		size= 7
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = inti
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = inti
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = inti
+		size= 2677
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 518
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 765
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = inti
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = inti
+		size= 48
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = inti
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = inti
+		size= 1
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = inti
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = inti
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = inti
+		size= 453
+	}
+
+}

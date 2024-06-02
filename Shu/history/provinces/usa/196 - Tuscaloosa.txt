@@ -1,0 +1,8 @@
+owner=POR
+controller=POR
+add_core=ABI
+trade_goods = iron
+life_rating = 35
+terrain = plains
+colonial=2
+fort = 1

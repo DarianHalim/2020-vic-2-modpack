@@ -1,0 +1,4252 @@
+2348 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1033
+	}
+
+	craftsmen=
+	{
+		culture = guarani
+		religion = animist
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 3004
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 217
+	}
+
+	clerks=
+	{
+		culture = guarani
+		religion = animist
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 80
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 57
+	}
+
+	capitalists=
+	{
+		culture = guarani
+		religion = animist
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 561
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 19673
+	}
+
+}
+2349 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 271
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 1283
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 34
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 240
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 12315
+	}
+
+}
+2350 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 607
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2085
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 115
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+}
+2351 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 693
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 38
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 7
+	}
+
+}
+2352 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 607
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2085
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 115
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+}
+2353 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 944
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1658
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 46
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2
+	}
+
+}
+2354 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1117
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 263
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = protestant
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = protestant
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = protestant
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = protestant
+		size= 302
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 181
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 2357
+	}
+
+}
+2355 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 940
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 224
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = protestant
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = protestant
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = protestant
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = protestant
+		size= 254
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 152
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 11
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 1821
+	}
+
+}
+2356 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 74
+	}
+
+	craftsmen=
+	{
+		culture = guarani
+		religion = animist
+		size= 2794
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 4560
+	}
+
+	craftsmen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5375
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 7188
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 869
+	}
+
+	clerks=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 493
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 182
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 65
+	}
+
+	capitalists=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 87
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 28
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 140
+	}
+
+}
+2357 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 828
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 556
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 129
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2258
+	}
+
+}
+2358 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2195
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4059
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 268
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 113
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 44
+	}
+
+}
+2359 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 414
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 277
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 64
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1129
+	}
+
+}
+2360 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 828
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 556
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 129
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2258
+	}
+
+}
+2361 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 414
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 277
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 64
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1129
+	}
+
+}
+2362 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 3920
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 8702
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 542
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 228
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 41
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 95
+	}
+
+}
+2363 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 549
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 137
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 63
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1126
+	}
+
+}
+2364 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1091
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2424
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 63
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 4
+	}
+
+}
+2365 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1561
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1826
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 144
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 60
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 20
+	}
+
+}
+2366 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 2058
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2897
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 211
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 44
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 31
+	}
+
+}
+2367 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1717
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2415
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 175
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 26
+	}
+
+}
+2368 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = inti
+		size= 144
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = inti
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 7
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = inti
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 3355
+	}
+
+}
+2369 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = inti
+		size= 79
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = inti
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 5
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = inti
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 1847
+	}
+
+}
+2370 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = inti
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = inti
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = inti
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 815
+	}
+
+}
+2371 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = inti
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = inti
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = inti
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 880
+	}
+
+}
+2372 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = inti
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = inti
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = inti
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 880
+	}
+
+}
+2373 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = animist
+		size= 37
+	}
+
+	craftsmen=
+	{
+		culture = aimara
+		religion = animist
+		size= 2182
+	}
+
+	craftsmen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 4002
+	}
+
+	clerks=
+	{
+		culture = platinean
+		religion = catholic
+		size= 186
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 166
+	}
+
+	capitalists=
+	{
+		culture = platinean
+		religion = catholic
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 33
+	}
+
+	craftsmen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1987
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 274
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 20
+	}
+
+	clerks=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 306
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 6
+	}
+
+	capitalists=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 86
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 51
+	}
+
+}
+2374 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = animist
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = animist
+		size= 819
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1383
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 46
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 76
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 615
+	}
+
+}
+2375 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = animist
+		size= 273
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 460
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 206
+	}
+
+}
+2376 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = animist
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = animist
+		size= 1090
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 750
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 137
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1033
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 226
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 680
+	}
+
+}
+2377 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1604
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1878
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 148
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 20
+	}
+
+}
+2378 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = animist
+		size= 544
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 865
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 113
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 338
+	}
+
+}
+2379 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 71
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 6982
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 11558
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 796
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 334
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 128
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 60
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 126
+	}
+
+}
+2380 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 665
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1101
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2
+	}
+
+}
+2381 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 665
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1101
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2
+	}
+
+}
+2382 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1701
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2670
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 185
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 29
+	}
+
+}
+2383 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 751
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 941
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 71
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+}
+2384 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 751
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 941
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 71
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+}
+2385 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1527
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2172
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 156
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 23
+	}
+
+}
+2386 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 729
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 965
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 72
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2
+	}
+
+}
+2387 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1106
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1569
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 114
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 23
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 3
+	}
+
+}
+2388 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 368
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 520
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1
+	}
+
+}
+2389 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1094
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1444
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 107
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 22
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 3
+	}
+
+}
+2390 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 297
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 388
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 500
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 526
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+}
+2391 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 592
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1246
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 105
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 44
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 628
+	}
+
+}
+2392 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 582
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 307
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 96
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 764
+	}
+
+}
+2393 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1043
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1556
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 112
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 47
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 3
+	}
+
+}
+2394 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2162
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2024
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 177
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 22
+	}
+
+}
+2395 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1116
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1495
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 46
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 3
+	}
+
+}
+2396 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 387
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 422
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2
+	}
+
+}
+2397 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 441
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 358
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 13
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1
+	}
+
+}
+2398 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 373
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 426
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1
+	}
+
+}
+2399 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 449
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 375
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1
+	}
+
+}
+2400 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 410
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 388
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 1
+	}
+
+}
+2554 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1774
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 1663
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = catholic
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 2
+	}
+
+}

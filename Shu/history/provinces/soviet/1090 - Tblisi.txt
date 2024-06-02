@@ -1,0 +1,7 @@
+owner=QOM
+controller=QOM
+add_core=GEO
+trade_goods = wool
+life_rating = 35
+terrain = mountain
+fort = 1

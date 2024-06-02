@@ -1,0 +1,8 @@
+owner=TIM
+controller=BLC
+add_core=HND
+add_core=SRH
+add_core=TIM
+trade_goods = fruit
+life_rating = 32
+terrain = mountain

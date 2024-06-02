@@ -1,0 +1,6 @@
+owner=CAB
+controller=CAB
+add_core=CAB
+trade_goods = fruit
+life_rating = 30
+terrain = plains

@@ -1,0 +1,7 @@
+owner=NEW
+controller=NEW
+add_core=NEW
+add_core=NHY
+trade_goods = fish
+life_rating = 30
+terrain = forest

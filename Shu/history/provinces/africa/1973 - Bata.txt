@@ -1,0 +1,6 @@
+owner=CST
+controller=CST
+trade_goods = coal
+life_rating = 15
+terrain = jungle
+colonial=2

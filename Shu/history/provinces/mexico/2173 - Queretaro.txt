@@ -1,0 +1,9 @@
+owner=X11
+controller=X11
+add_core=AZT
+add_core=OTO
+add_core=TLX
+add_core=X11
+trade_goods = timber
+life_rating = 35
+terrain = mountain

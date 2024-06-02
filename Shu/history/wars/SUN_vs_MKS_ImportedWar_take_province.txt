@@ -1,0 +1,27 @@
+name = "Sundanese-Makassari Nationalist War"
+
+1782.11.13 = {
+	add_attacker = SUN
+	add_attacker = BAL
+	add_attacker = POR
+	add_attacker = DOM
+	add_attacker = URU
+	add_attacker = PEU
+	add_attacker = CAL
+	add_attacker = X09
+	add_attacker = UOR
+	add_attacker = X11
+	add_attacker = X16
+	add_defender = MKS
+	add_defender = BRT
+	add_defender = WSI
+	add_defender = USA
+	add_defender = X12
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = SUN
+		receiver = MKS
+		state_province_id = 1430
+	}
+}

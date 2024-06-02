@@ -1,0 +1,8 @@
+owner=JNP
+controller=MEW
+add_core=HND
+add_core=JNP
+add_core=MEW
+trade_goods = grain
+life_rating = 32
+terrain = plains

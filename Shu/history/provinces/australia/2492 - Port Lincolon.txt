@@ -1,0 +1,7 @@
+owner=X14
+controller=AUK
+add_core=AUK
+add_core=X14
+trade_goods = wool
+life_rating = 30
+terrain = plains

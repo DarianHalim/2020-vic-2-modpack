@@ -1,0 +1,6 @@
+owner=CAB
+controller=CAB
+add_core=CAB
+trade_goods = cotton
+life_rating = 35
+terrain = plains

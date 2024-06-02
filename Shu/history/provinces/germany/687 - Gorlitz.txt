@@ -1,0 +1,7 @@
+owner=SRB
+controller=SRB
+add_core=PLC
+add_core=SRB
+trade_goods = silk
+life_rating = 40
+terrain = woods

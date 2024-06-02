@@ -1,0 +1,7 @@
+owner=OSH
+controller=NEW
+add_core=OSH
+trade_goods = cattle
+life_rating = 35
+terrain = farmlands
+fort = 2

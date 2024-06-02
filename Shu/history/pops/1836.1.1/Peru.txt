@@ -1,0 +1,1545 @@
+2286 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size= 4546
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 6449
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1102
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 103
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 74
+	}
+
+}
+2287 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = inti
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = inti
+		size= 116
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = inti
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 4
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = inti
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = inti
+		size= 2645
+	}
+
+}
+2288 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size= 1024
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1451
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 248
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 46
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 3
+	}
+
+}
+2289 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size= 370
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 392
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 225
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = inti
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = inti
+		size= 73
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = inti
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = inti
+		size= 2
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = inti
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = inti
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = inti
+		size= 855
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 370
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 251
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1
+	}
+
+}
+2290 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = inti
+		size= 360
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = inti
+		size= 3240
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = inti
+		size= 234
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 50
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = inti
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 605
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = inti
+		size= 31463
+	}
+
+}
+2291 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = inti
+		size= 149
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = inti
+		size= 594
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = inti
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 15
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = inti
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = inti
+		size= 13856
+	}
+
+}
+2292 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = inti
+		size= 163
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = inti
+		size= 651
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = inti
+		size= 106
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 16
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = inti
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = inti
+		size= 15181
+	}
+
+}
+2293 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = inti
+		size= 85
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = inti
+		size= 772
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = inti
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 12
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = inti
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 144
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = inti
+		size= 7494
+	}
+
+}
+2294 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = inti
+		size= 56
+	}
+
+	artisans=
+	{
+		culture = maranon
+		religion = inti
+		size= 224
+	}
+
+	clergymen=
+	{
+		culture = maranon
+		religion = inti
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = maranon
+		religion = inti
+		size= 6
+	}
+
+	officers=
+	{
+		culture = maranon
+		religion = inti
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = maranon
+		religion = inti
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = inti
+		size= 5188
+	}
+
+}
+2295 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = inti
+		size= 787
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = inti
+		size= 3149
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = inti
+		size= 512
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 79
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = inti
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 772
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = inti
+		size= 73335
+	}
+
+}
+2296 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = inti
+		size= 138
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = inti
+		size= 552
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = inti
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 19
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = inti
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 116
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = inti
+		size= 12871
+	}
+
+}
+2297 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = inti
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = inti
+		size= 3646
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 10729
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 117
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 617
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 259
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 20
+	}
+
+}
+2298 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = inti
+		size= 245
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = inti
+		size= 978
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = inti
+		size= 159
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 34
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = inti
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 616
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = inti
+		size= 22381
+	}
+
+}
+2299 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = inti
+		size= 264
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = inti
+		size= 2379
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = inti
+		size= 172
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 37
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = inti
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 444
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = inti
+		size= 23106
+	}
+
+}
+2300 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = inti
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = maranon
+		religion = inti
+		size= 208
+	}
+
+	clergymen=
+	{
+		culture = maranon
+		religion = inti
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = maranon
+		religion = inti
+		size= 6
+	}
+
+	officers=
+	{
+		culture = maranon
+		religion = inti
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = maranon
+		religion = inti
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = inti
+		size= 2033
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = inti
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = inti
+		size= 601
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 1455
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 207
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 3
+	}
+
+}
+2301 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = inti
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = inti
+		size= 86
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = inti
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 3
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = inti
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = inti
+		size= 1953
+	}
+
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = inti
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = inti
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = inti
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 605
+	}
+
+}
+2302 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = inti
+		size= 1142
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = inti
+		size= 1631
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = inti
+		size= 265
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 57
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = inti
+		size= 86
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 343
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = inti
+		size= 37256
+	}
+
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 354
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = inti
+		size= 506
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = inti
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 18
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = inti
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 11563
+	}
+
+}
+2303 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 445
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = inti
+		size= 1433
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = inti
+		size= 103
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 38
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = inti
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 267
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 13598
+	}
+
+	soldiers=
+	{
+		culture = quechua
+		religion = inti
+		size= 89
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = inti
+		size= 287
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = inti
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 8
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = inti
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = inti
+		size= 2718
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 1161
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 1867
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 147
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 282
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1081
+	}
+
+}
+2304 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 4216
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 11837
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 722
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 1033
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 151
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 23
+	}
+
+}
+2578 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 5577
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 12852
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 964
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 404
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 47
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 31
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 4133
+	}
+
+}

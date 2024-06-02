@@ -1,0 +1,9 @@
+owner=RUS
+controller=RUS
+add_core=KHA
+add_core=MGL
+trade_goods = wool
+life_rating = 32
+terrain = hills
+colonial=2
+fort = 1

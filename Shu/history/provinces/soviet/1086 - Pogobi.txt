@@ -1,0 +1,8 @@
+owner=AIN
+controller=AIN
+add_core=AIN
+add_core=NVK
+add_core=SIB
+trade_goods = cattle
+life_rating = 35
+terrain = plains

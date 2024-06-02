@@ -1,0 +1,7 @@
+owner=TUR
+controller=TUR
+add_core=KBO
+trade_goods = coffee
+life_rating = 10
+terrain = plains
+colonial=2

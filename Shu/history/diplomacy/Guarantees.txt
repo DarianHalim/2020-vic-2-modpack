@@ -1,0 +1,72 @@
+guarantee=
+{
+	first="DEN"
+	second="NOR"
+	start_date="1782.4.13"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="BRT"
+	second="MKS"
+	start_date="1710.5.16"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="CST"
+	second="BRT"
+	start_date="1756.2.23"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="RUS"
+	second="CRI"
+	start_date="1752.12.14"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="YEM"
+	second="X00"
+	start_date="1730.1.19"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="CHG"
+	second="AVA"
+	start_date="1728.3.18"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="JNP"
+	second="GDW"
+	start_date="1738.8.30"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="AND"
+	second="BMN"
+	start_date="1762.9.18"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="SRH"
+	second="DNG"
+	start_date="1726.9.1"
+	end_date="1936.1.1"
+}
+

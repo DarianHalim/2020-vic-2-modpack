@@ -1,0 +1,9 @@
+owner=WAM
+controller=FLR
+add_core=FLR
+add_core=PEQ
+add_core=WAM
+trade_goods = iron
+life_rating = 35
+terrain = woods
+fort = 2

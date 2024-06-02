@@ -1,0 +1,6 @@
+owner=TUR
+controller=TUR
+trade_goods = opium
+life_rating = 10
+terrain = desert
+colonial=2

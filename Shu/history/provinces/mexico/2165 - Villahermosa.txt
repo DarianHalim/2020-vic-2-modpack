@@ -1,0 +1,8 @@
+owner=X11
+controller=X11
+add_core=X11
+add_core=YOK
+trade_goods = coffee
+life_rating = 30
+terrain = plains
+naval_base = 1

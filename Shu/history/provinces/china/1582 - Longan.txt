@@ -1,0 +1,8 @@
+owner=CXI
+controller=CHG
+add_core=CHG
+add_core=CXI
+add_core=TIB
+trade_goods = grain
+life_rating = 32
+terrain = hills

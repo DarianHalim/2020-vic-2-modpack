@@ -1,0 +1,9 @@
+owner=HES
+controller=HES
+add_core=GER
+add_core=HES
+add_core=SAX
+trade_goods = fruit
+life_rating = 42
+terrain = farmlands
+fort = 1

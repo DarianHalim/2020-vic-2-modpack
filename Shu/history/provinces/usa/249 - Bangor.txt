@@ -1,0 +1,7 @@
+owner=PEN
+controller=USA
+add_core=PEN
+trade_goods = grain
+life_rating = 35
+terrain = forest
+fort = 2

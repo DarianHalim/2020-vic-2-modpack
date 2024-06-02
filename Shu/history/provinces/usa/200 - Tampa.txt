@@ -1,0 +1,8 @@
+owner=FLR
+controller=FLR
+add_core=FLR
+trade_goods = tropical_wood
+life_rating = 25
+terrain = marsh
+naval_base = 2
+is_slave = yes

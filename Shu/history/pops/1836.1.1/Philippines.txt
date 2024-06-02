@@ -1,0 +1,1359 @@
+1455 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 2933
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = animist
+		size= 18181
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = animist
+		size= 974
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 311
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = animist
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 1091
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 123072
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 673
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = hindu
+		size= 6808
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = hindu
+		size= 364
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 117
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 408
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 25209
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 173
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 303
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 5
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 8134
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = sunni
+		size= 1177
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = sunni
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 20
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 71
+	}
+
+}
+1456 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 1230
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 121828
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = protestant
+		size= 18492
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = protestant
+		size= 5879
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = protestant
+		size= 231
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = protestant
+		size= 954
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = protestant
+		size= 1234
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = protestant
+		size= 220
+	}
+
+	officers=
+	{
+		culture = french
+		religion = protestant
+		size= 116
+	}
+
+}
+1457 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 2191
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 107367
+	}
+
+	soldiers=
+	{
+		culture = breton
+		religion = protestant
+		size= 446
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = protestant
+		size= 17120
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = protestant
+		size= 5278
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = protestant
+		size= 858
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = protestant
+		size= 1108
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = protestant
+		size= 263
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = protestant
+		size= 105
+	}
+
+}
+1458 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 811
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = animist
+		size= 5032
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = animist
+		size= 270
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 86
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = animist
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 302
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 34064
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 186
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = hindu
+		size= 1884
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = hindu
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 32
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 113
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 6977
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 48
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 84
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 2252
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = sunni
+		size= 326
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = sunni
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 6
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 20
+	}
+
+}
+1459 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 405
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = sunni
+		size= 579
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = sunni
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 20
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 13213
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 3293
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = sunni
+		size= 468
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = sunni
+		size= 160
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = sunni
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = sunni
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = sunni
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = sunni
+		size= 16
+	}
+
+}
+1460 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 754
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = animist
+		size= 5474
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = animist
+		size= 396
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 55
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = animist
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 510
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 68162
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = hindu
+		size= 1316
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = hindu
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 13
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 123
+	}
+
+}
+1461 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 661
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 65524
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = sunni
+		size= 8135
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = sunni
+		size= 2480
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = sunni
+		size= 521
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = sunni
+		size= 403
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = sunni
+		size= 106
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = sunni
+		size= 61
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = sunni
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = hindu
+		size= 601
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = hindu
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = hindu
+		size= 339
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 71
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = hindu
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 8
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = hindu
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = sunni
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = sunni
+		size= 376
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = sunni
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = sunni
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = sunni
+		size= 1226
+	}
+
+}
+1462 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 660
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = animist
+		size= 3410
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = animist
+		size= 183
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 34
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = animist
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 205
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 61480
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = sunni
+		size= 3574
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = sunni
+		size= 191
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 36
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 214
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = protestant
+		size= 1301
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = protestant
+		size= 2875
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = protestant
+		size= 154
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = protestant
+		size= 172
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = protestant
+		size= 29
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = protestant
+		size= 26
+	}
+
+	soldiers=
+	{
+		culture = breton
+		religion = protestant
+		size= 31
+	}
+
+}
+1463 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 252
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = animist
+		size= 794
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = animist
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = animist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 74
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 23986
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = sunni
+		size= 920
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = sunni
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 14
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 3771
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = protestant
+		size= 899
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = protestant
+		size= 813
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = protestant
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = protestant
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = protestant
+		size= 12
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = protestant
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = breton
+		religion = protestant
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 46
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = hindu
+		size= 729
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = hindu
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 11
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 3641
+	}
+
+}
+1464 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 286
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = sunni
+		size= 204
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = sunni
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 14
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 9627
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = shiite
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = shiite
+		size= 238
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = shiite
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = shiite
+		size= 17
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = shiite
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = shiite
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = shiite
+		size= 453
+	}
+
+}
+2565 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 734
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = hindu
+		size= 2935
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = hindu
+		size= 550
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 37
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 719
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 68329
+	}
+
+}

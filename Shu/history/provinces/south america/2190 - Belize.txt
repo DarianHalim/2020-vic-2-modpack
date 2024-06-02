@@ -1,0 +1,7 @@
+owner=DOM
+controller=DOM
+add_core=DOM
+add_core=X11
+trade_goods = fruit
+life_rating = 30
+terrain = jungle

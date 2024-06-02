@@ -1,0 +1,8 @@
+owner=BTN
+controller=BTN
+add_core=BTN
+add_core=MJP
+add_core=SUN
+trade_goods = tea
+life_rating = 30
+terrain = plains

@@ -1,0 +1,197 @@
+251 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 518
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 538
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 2
+	}
+
+}
+2591 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 138
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 141
+	}
+
+}
+2632 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 138
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 141
+	}
+
+}
+2636 = {
+	farmers=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 92
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size= 94
+	}
+
+}

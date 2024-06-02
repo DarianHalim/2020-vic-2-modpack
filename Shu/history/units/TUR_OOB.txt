@@ -1,0 +1,2202 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+ACO = {
+	value = 25
+	level = 2
+}
+AIN = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+AJU = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+ALS = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = -1
+	level = 2
+}
+ARN = {
+	value = -6
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = -8
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AVI = {
+	value = 0
+	level = 2
+}
+BAD = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+BAL = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+BGA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+BMN = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BRB = {
+	value = 0
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRE = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = -1
+	level = 2
+}
+BRT = {
+	value = 30
+	level = 2
+}
+BRU = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+BRZ = {
+	value = 77
+	influence_value = 6
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+CAB = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+CAL = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+CDL = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+CEB = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+CGS = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+CHC = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+CMI = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+COO = {
+	value = 90
+	influence_value = 10
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+CWU = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+CXI = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+CYI = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+DEN = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+DJA = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DNG = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+EFR = {
+	value = -1
+	level = 2
+}
+ENL = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+EST = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 52
+	level = 2
+}
+FRA = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+FRI = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+FRM = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 81
+	influence_value = 7
+	level = 2
+}
+GLR = {
+	value = -4
+	level = 2
+}
+GOS = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+HES = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+HLL = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+HSC = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+HUA = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICH = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+INN = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JNP = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+KBO = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+KLE = {
+	value = 0
+	level = 2
+}
+KNI = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+KNZ = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNB = {
+	value = -3
+	level = 2
+}
+LNG = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+LOU = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+LUB = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+LUX = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MCA = {
+	value = 0
+	level = 2
+}
+MDS = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+MEM = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MEW = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+MEX = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+MGD = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+MIN = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+MLC = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+MLD = {
+	value = 0
+	level = 2
+}
+MLH = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+MLI = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+MUN = {
+	value = 0
+	level = 2
+}
+NAS = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 52
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+NOR = {
+	value = 43
+	level = 2
+}
+NRM = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+NUB = {
+	value = 125
+	influence_value = 18
+	level = 2
+}
+NUM = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OLD = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAD = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+PEN = {
+	value = 0
+	level = 2
+}
+PEO = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+PEQ = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+PGS = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 89
+	influence_value = 9
+	level = 2
+}
+PTL = {
+	value = 0
+	level = 2
+}
+QOM = {
+	value = 175
+	influence_value = 31
+	level = 4
+}
+RIG = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+ROT = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+RUS = {
+	value = -62
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+SLZ = {
+	value = 75
+	influence_value = 6
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+SOF = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+SRB = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+SRH = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+STA = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+SUN = {
+	value = 20
+	level = 2
+}
+SVY = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+SWA = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+SWE = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+SWI = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+TAI = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+TIM = {
+	value = 151
+	influence_value = 25
+	level = 3
+}
+TUN = {
+	value = 99
+	influence_value = 12
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+UBV = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+UOR = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+URB = {
+	value = 62
+	influence_value = 3
+	level = 2
+}
+URU = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+USA = {
+	value = 51
+	level = 2
+}
+VEN = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 9
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X06 = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+X07 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X09 = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+X10 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X11 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X12 = {
+	value = 26
+	level = 2
+}
+X13 = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+X14 = {
+	value = 51
+	level = 2
+}
+X15 = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+YAO = {
+	value = 78
+	influence_value = 7
+	level = 2
+}
+YEM = {
+	value = 210
+	influence_value = 40
+	level = 4
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+ZBW = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Hamid Cerrah"
+	date="1761.4.21"
+	type=land
+	personality="resourceful"
+	background="bootlicker"
+}
+
+leader = {
+	name="Ibrahim Ayas"
+	date="1777.4.13"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Süleyman Cerrah"
+	date="1777.4.16"
+	type=sea
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Süleyman Serdar"
+	date="1777.4.19"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Kasim Kemal"
+	date="1777.4.21"
+	type=sea
+	personality="coolminded"
+	background="bootlicker"
+}
+
+leader = {
+	name="Ishak Tarhuncu"
+	date="1777.4.22"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Halil Boshnak"
+	date="1777.4.25"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Osman Boshnak"
+	date="1777.5.1"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Iskender Tayyar"
+	date="1777.5.4"
+	type=land
+	personality="intuitive"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Kasim Veli"
+	date="1777.5.6"
+	type=land
+	personality="disciplined"
+	background="artillerist"
+}
+
+leader = {
+	name="Giyaseddin Lala"
+	date="1777.5.7"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Yusuf Gürcü"
+	date="1777.5.8"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Cihangir Hekimoglu"
+	date="1777.5.11"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Musa Turgut"
+	date="1777.5.13"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Yusuf Küçük"
+	date="1779.5.10"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ismail Lefkeli"
+	date="1781.1.11"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Nizameddin Uluç"
+	date="1782.5.27"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Dursun Alemdar"
+	date="1782.9.3"
+	type=land
+	personality="persistant"
+	background="war_college"
+}
+
+leader = {
+	name="Emin Gürcü"
+	date="1782.12.4"
+	type=sea
+	personality="active_p"
+	background="aristocrat"
+}
+
+leader = {
+	name="Davud Lala"
+	date="1783.2.20"
+	type=sea
+	personality="persistant"
+	background="war_college"
+}
+
+leader = {
+	name="Musa Çelebi"
+	date="1784.5.24"
+	type=land
+	personality="resolute"
+	background="artillerist"
+}
+
+leader = {
+	name="Seyfeddin Gedik"
+	date="1785.6.19"
+	type=sea
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Davud Tayyar"
+	date="1789.12.21"
+	type=land
+	personality="persistant"
+	background="generals_aide"
+}
+
+leader = {
+	name="Abdülmecid Bayram"
+	date="1790.8.15"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+
+#Armies
+navy = {
+	name="Akdeniz Donanmasî"
+	location=2772
+	ship = {
+		name="Osmaniye"
+		type=manowar
+	}
+	ship = {
+		name="Mahmudiye"
+		type=manowar
+	}
+	ship = {
+		name="Orhaniye"
+		type=manowar
+	}
+	ship = {
+		name="Abdülaziz"
+		type=manowar
+	}
+	ship = {
+		name="Asar-i Tevfik"
+		type=manowar
+	}
+	ship = {
+		name="Asar-i Sevket"
+		type=manowar
+	}
+	ship = {
+		name="Nijimi Sevket"
+		type=manowar
+	}
+	ship = {
+		name="Avni Illah"
+		type=manowar
+	}
+	ship = {
+		name="Idjalieh"
+		type=manowar
+	}
+	ship = {
+		name="Fethi Belund"
+		type=manowar
+	}
+	ship = {
+		name="Mukaddeme-i Hayir"
+		type=manowar
+	}
+	ship = {
+		name="Gayret-i Vataniye"
+		type=manowar
+	}
+	ship = {
+		name="Yadigar-i Millet"
+		type=manowar
+	}
+	ship = {
+		name="Muavenet-i Millet"
+		type=manowar
+	}
+	ship = {
+		name="Numune-i Hamiyet"
+		type=manowar
+	}
+	ship = {
+		name="Adatepe"
+		type=manowar
+	}
+	ship = {
+		name="Kocatepe"
+		type=manowar
+	}
+	ship = {
+		name="Tinaztepe"
+		type=manowar
+	}
+	ship = {
+		name="Zafer"
+		type=manowar
+	}
+	ship = {
+		name="Demirhisar"
+		type=manowar
+	}
+	ship = {
+		name="Sultanhisar"
+		type=manowar
+	}
+	ship = {
+		name="1st Balikesir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Perpignan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bursa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bursa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Acre Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dedeagatch Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Polygyros Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Suez Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Bursa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Palermo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Timsah"
+		type=frigate
+	}
+	ship = {
+		name="Simir-i Hidsum"
+		type=frigate
+	}
+	ship = {
+		name="Gilyom"
+		type=frigate
+	}
+	ship = {
+		name="Nasir"
+		type=frigate
+	}
+	ship = {
+		name="Ejder"
+		type=frigate
+	}
+	ship = {
+		name="Yunus"
+		type=frigate
+	}
+	ship = {
+		name="Draç"
+		type=frigate
+	}
+	ship = {
+		name="Sivrihisar"
+		type=frigate
+	}
+	ship = {
+		name="Nilüfer"
+		type=frigate
+	}
+	ship = {
+		name="Rana"
+		type=frigate
+	}
+	ship = {
+		name="Doruk Reis"
+		type=frigate
+	}
+	ship = {
+		name="Hizir Reis"
+		type=frigate
+	}
+	ship = {
+		name="Timur Hisar"
+		type=frigate
+	}
+	ship = {
+		name="Kos"
+		type=frigate
+	}
+	ship = {
+		name="Nuribar"
+		type=frigate
+	}
+	ship = {
+		name="Pelenk-i Derya"
+		type=frigate
+	}
+	ship = {
+		name="Ceyhan"
+		type=frigate
+	}
+	ship = {
+		name="Yar Hisar"
+		type=frigate
+	}
+	ship = {
+		name="Mahmud Sevket Pasha"
+		type=frigate
+	}
+	ship = {
+		name="Malatya"
+		type=frigate
+	}
+	ship = {
+		name="Kütahya"
+		type=frigate
+	}
+	ship = {
+		name="Yozgat"
+		type=frigate
+	}
+	ship = {
+		name="1st Üsküdar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ottoman Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Balikesir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Brindisi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Palermo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Volos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bolu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kastamonu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Tulcea Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Tulcea Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Canakkale Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dubrovnik Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ottoman Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Silistre Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Burgas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bursa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gjirokaster Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Gjirokaster Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Canakkale Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Constanta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Vlore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Gallipoli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Tulcea Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Burgas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Udine Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Shkoder Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Palermo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Gallipoli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Janina Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Gjirokaster Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Vlore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Bursa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Canakkale Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1762
+	regiment = {
+		name="1st Giresun Infantry"
+		type=infantry
+		home=884
+	}
+	regiment = {
+		name="1st Izmir Infantry"
+		type=infantry
+		home=869
+	}
+	regiment = {
+		name="1st Chios Infantry"
+		type=infantry
+		home=843
+	}
+	regiment = {
+		name="1st Kastamonu Artillery"
+		type=artillery
+		home=880
+	}
+	regiment = {
+		name="1st Adana Artillery"
+		type=artillery
+		home=894
+	}
+	regiment = {
+		name="1st Amasya Artillery"
+		type=artillery
+		home=877
+	}
+	regiment = {
+		name="1st Sivas Artillery"
+		type=artillery
+		home=879
+	}
+	regiment = {
+		name="2nd Chios Infantry"
+		type=infantry
+		home=843
+	}
+	regiment = {
+		name="1st Burdur Infantry"
+		type=infantry
+		home=874
+	}
+	regiment = {
+		name="1st Kayseri Artillery"
+		type=artillery
+		home=878
+	}
+	regiment = {
+		name="1st Kütahya Artillery"
+		type=artillery
+		home=867
+	}
+	regiment = {
+		name="3rd Amasya Artillery"
+		type=artillery
+		home=877
+	}
+}
+
+army = {
+	name="Olmütz Ordusu"
+	location=1817
+	regiment = {
+		name="1st Suhaj Infantry"
+		type=infantry
+		home=2559
+	}
+	regiment = {
+		name="2nd Sivas Artillery"
+		type=artillery
+		home=879
+	}
+	regiment = {
+		name="1st Sivas Infantry"
+		type=infantry
+		home=879
+	}
+	regiment = {
+		name="1st Hakkari Infantry"
+		type=infantry
+		home=892
+	}
+	regiment = {
+		name="3rd Sivas Artillery"
+		type=artillery
+		home=879
+	}
+	regiment = {
+		name="1st Arbil Artillery"
+		type=artillery
+		home=924
+	}
+	regiment = {
+		name="2nd Arbil Artillery"
+		type=artillery
+		home=924
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1155
+	regiment = {
+		name="1st Qina Infantry"
+		type=infantry
+		home=1769
+	}
+	regiment = {
+		name="1st Konya Artillery"
+		type=artillery
+		home=873
+	}
+	regiment = {
+		name="1st Zante Infantry"
+		type=infantry
+		home=827
+	}
+	regiment = {
+		name="2nd Zante Infantry"
+		type=infantry
+		home=827
+	}
+	regiment = {
+		name="1st Erzincan Artillery"
+		type=artillery
+		home=888
+	}
+	regiment = {
+		name="2nd Erzincan Artillery"
+		type=artillery
+		home=888
+	}
+	regiment = {
+		name="3rd Erzincan Artillery"
+		type=artillery
+		home=888
+	}
+}
+
+navy = {
+	name="Ballibadra Donanmasî"
+	location=2759
+	ship = {
+		name="3rd Antalya Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Tulcea Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Üsküdar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Myteline Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Khalkis Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Izmir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Genoa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Izmir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Kastamonu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mersin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Üsküdar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Corinth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mersin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Genoa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Burgas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bursa Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Akkerman Ordusu"
+	location=1180
+	regiment = {
+		name="2nd Izmir Infantry"
+		type=infantry
+		home=869
+	}
+	regiment = {
+		name="1st Zalaegerszeg Infantry"
+		type=infantry
+		home=639
+	}
+	regiment = {
+		name="1st Murzuk Infantry"
+		type=infantry
+		home=1741
+	}
+}
+
+army = {
+	name="Kirshehir Ordusu"
+	location=1755
+	regiment = {
+		name="1st Missolonghi Infantry"
+		type=infantry
+		home=837
+	}
+	regiment = {
+		name="1st Hakkari Artillery"
+		type=artillery
+		home=892
+	}
+	regiment = {
+		name="1st Mansura Infantry"
+		type=infantry
+		home=1748
+	}
+	regiment = {
+		name="8th Izmir Infantry"
+		type=infantry
+		home=869
+	}
+	regiment = {
+		name="1st Beersheba Infantry"
+		type=infantry
+		home=921
+	}
+	regiment = {
+		name="1st Istanbul Artillery"
+		type=artillery
+		home=860
+	}
+	regiment = {
+		name="5th Burdur Artillery"
+		type=artillery
+		home=874
+	}
+	regiment = {
+		name="6th Burdur Artillery"
+		type=artillery
+		home=874
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1755
+	regiment = {
+		name="1st Varna Infantry"
+		type=infantry
+		home=814
+	}
+	regiment = {
+		name="1st Ankara Infantry"
+		type=infantry
+		home=876
+	}
+	regiment = {
+		name="1st Izmit Artillery"
+		type=artillery
+		home=862
+	}
+	regiment = {
+		name="1st Ruse Infantry"
+		type=infantry
+		home=811
+	}
+	regiment = {
+		name="1st Bor Infantry"
+		type=infantry
+		home=795
+	}
+	regiment = {
+		name="2nd Burdur Artillery"
+		type=artillery
+		home=874
+	}
+	regiment = {
+		name="2nd Amasya Artillery"
+		type=artillery
+		home=877
+	}
+	regiment = {
+		name="1st Bolu Artillery"
+		type=artillery
+		home=881
+	}
+	regiment = {
+		name="1st Afyon Artillery"
+		type=artillery
+		home=866
+	}
+}
+
+army = {
+	name="Sirt Ordusu"
+	location=1772
+	regiment = {
+		name="1st Matruh Infantry"
+		type=infantry
+		home=1752
+	}
+	regiment = {
+		name="1st Urfa Artillery"
+		type=artillery
+		home=899
+	}
+	regiment = {
+		name="1st Bawiti Infantry"
+		type=infantry
+		home=1759
+	}
+	regiment = {
+		name="1st Bucharest Infantry"
+		type=infantry
+		home=664
+	}
+	regiment = {
+		name="1st Ankara Artillery"
+		type=artillery
+		home=876
+	}
+	regiment = {
+		name="2nd Istanbul Artillery"
+		type=artillery
+		home=860
+	}
+	regiment = {
+		name="3rd Istanbul Artillery"
+		type=artillery
+		home=860
+	}
+	regiment = {
+		name="2nd Konya Artillery"
+		type=artillery
+		home=873
+	}
+}
+
+army = {
+	name="Bolu Ordusu"
+	location=889
+	regiment = {
+		name="1st Üsküdar Infantry"
+		type=infantry
+		home=861
+	}
+	regiment = {
+		name="5th Izmir Infantry"
+		type=infantry
+		home=869
+	}
+	regiment = {
+		name="1st Asyut Infantry"
+		type=infantry
+		home=1762
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=900
+	regiment = {
+		name="1st Ras Gharib Infantry"
+		type=infantry
+		home=1772
+	}
+	regiment = {
+		name="1st Manisa Infantry"
+		type=infantry
+		home=870
+	}
+	regiment = {
+		name="1st Bursa Infantry"
+		type=infantry
+		home=863
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2762
+	ship = {
+		name="1st Beirut Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Amasya Ordusu"
+	location=1769
+	regiment = {
+		name="1st Bolu Infantry"
+		type=infantry
+		home=881
+	}
+	regiment = {
+		name="1st Aqaba Infantry"
+		type=infantry
+		home=922
+	}
+	regiment = {
+		name="1st Antep Infantry"
+		type=infantry
+		home=898
+	}
+}
+
+army = {
+	name="Atina Ordusu"
+	location=1152
+	regiment = {
+		name="1st Polygyros Infantry"
+		type=infantry
+		home=822
+	}
+	regiment = {
+		name="1st Jerusalem Infantry"
+		type=infantry
+		home=917
+	}
+	regiment = {
+		name="1st Istanbul Infantry"
+		type=infantry
+		home=860
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1152
+	regiment = {
+		name="3rd Izmir Infantry"
+		type=infantry
+		home=869
+	}
+	regiment = {
+		name="1st Corinth Infantry"
+		type=infantry
+		home=840
+	}
+	regiment = {
+		name="7th Izmir Infantry"
+		type=infantry
+		home=869
+	}
+	regiment = {
+		name="1st Cetinje Infantry"
+		type=infantry
+		home=2583
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1772
+	regiment = {
+		name="4th Izmir Infantry"
+		type=infantry
+		home=869
+	}
+	regiment = {
+		name="6th Izmir Infantry"
+		type=infantry
+		home=869
+	}
+	regiment = {
+		name="9th Izmir Infantry"
+		type=infantry
+		home=869
+	}
+}
+
+army = {
+	name="Kütahya Ordusu"
+	location=900
+	regiment = {
+		name="1st Burdur Artillery"
+		type=artillery
+		home=874
+	}
+	regiment = {
+		name="3rd Burdur Artillery"
+		type=artillery
+		home=874
+	}
+	regiment = {
+		name="4th Burdur Artillery"
+		type=artillery
+		home=874
+	}
+	regiment = {
+		name="2nd Izmit Artillery"
+		type=artillery
+		home=862
+	}
+}
+
+navy = {
+	name="Kîzîldeniz Donanmasî"
+	location=2757
+	ship = {
+		name="1st Polygyros Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bursa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Istanbul Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Constanta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Durres Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Volos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chios Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Canakkale Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Izmit Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Venice Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Izmit Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Durres Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Antioch Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kirklareli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Izmir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Durres Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Ege Donanmasî"
+	location=2914
+	ship = {
+		name="4th Vlore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Volos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Vlore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Trieste Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Nafplion Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Volos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tulcea Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Eastern Equatorial Counter Current Donanmasî"
+	location=1755
+	ship = {
+		name="4th Valencia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Missolonghi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Makassar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Amfissa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Palermo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Silistre Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Shkoder Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Potenza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bursa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Burgas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Corinth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Brindisi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kavala Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Missolonghi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vlore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Vlore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Barcelona Clipper Transport"
+		type=clipper_transport
+	}
+}
+

@@ -1,0 +1,8 @@
+owner=FLR
+controller=FLR
+add_core=FLR
+add_core=HNI
+add_core=NTC
+trade_goods = fruit
+life_rating = 35
+terrain = plains

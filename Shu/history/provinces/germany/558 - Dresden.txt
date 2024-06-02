@@ -1,0 +1,9 @@
+owner=SAX
+controller=HES
+add_core=GER
+add_core=HES
+add_core=SAX
+trade_goods = coal
+life_rating = 40
+terrain = woods
+fort = 1

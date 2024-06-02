@@ -1,0 +1,13 @@
+name = "Yao-Kanem Bornuan Nationalist War"
+
+1790.11.11 = {
+	add_attacker = TUR
+	add_defender = X00
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = TUR
+		receiver = X00
+		state_province_id = 1964
+	}
+}

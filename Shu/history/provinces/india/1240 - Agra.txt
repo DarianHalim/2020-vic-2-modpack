@@ -1,0 +1,8 @@
+owner=JNP
+controller=MEW
+add_core=DLH
+add_core=HND
+add_core=JNP
+trade_goods = coal
+life_rating = 32
+terrain = woods

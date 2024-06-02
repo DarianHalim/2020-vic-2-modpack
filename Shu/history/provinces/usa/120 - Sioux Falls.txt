@@ -1,0 +1,7 @@
+owner=DAK
+controller=X15
+add_core=DAK
+add_core=X15
+trade_goods = grain
+life_rating = 35
+terrain = steppe

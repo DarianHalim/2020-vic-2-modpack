@@ -1,0 +1,6 @@
+owner=YUE
+controller=REB
+add_core=YUE
+trade_goods = tea
+life_rating = 32
+terrain = plains

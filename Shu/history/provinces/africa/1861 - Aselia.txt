@@ -1,0 +1,6 @@
+owner=YEM
+controller=YEM
+add_core=AJU
+trade_goods = fish
+life_rating = 30
+terrain = mountain

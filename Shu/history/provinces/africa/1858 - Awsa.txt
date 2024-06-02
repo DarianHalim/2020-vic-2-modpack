@@ -1,0 +1,7 @@
+owner=YEM
+controller=TUR
+add_core=AWS
+trade_goods = iron
+life_rating = 30
+terrain = mountain
+colonial=2

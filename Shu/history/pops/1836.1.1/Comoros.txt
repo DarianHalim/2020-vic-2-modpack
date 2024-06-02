@@ -1,0 +1,158 @@
+2123 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 1251
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 117
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 4491
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 1788
+	}
+
+	farmers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 5760
+	}
+
+	artisans=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 569
+	}
+
+	clergymen=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 42
+	}
+
+	officers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 166
+	}
+
+}
+2124 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 208
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 609
+	}
+
+	farmers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 779
+	}
+
+	artisans=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 80
+	}
+
+	clergymen=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 6
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 296
+	}
+
+	soldiers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 24
+	}
+
+	officers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 1
+	}
+
+}

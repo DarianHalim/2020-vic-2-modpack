@@ -1,0 +1,7 @@
+owner=UOR
+controller=UOR
+add_core=SHS
+add_core=UOR
+trade_goods = cattle
+life_rating = 35
+terrain = mountain

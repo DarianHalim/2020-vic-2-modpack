@@ -1,0 +1,9 @@
+owner=RIG
+controller=RIG
+add_core=GER
+add_core=RIG
+trade_goods = timber
+life_rating = 35
+terrain = farmlands
+naval_base = 1
+fort = 1

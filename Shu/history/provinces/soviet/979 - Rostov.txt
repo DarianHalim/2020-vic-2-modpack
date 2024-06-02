@@ -1,0 +1,8 @@
+owner=RUS
+controller=RUS
+add_core=CRI
+add_core=RUS
+trade_goods = fruit
+life_rating = 35
+terrain = steppe
+naval_base = 1

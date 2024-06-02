@@ -1,0 +1,9 @@
+owner=MDS
+controller=CEB
+add_core=CEB
+add_core=MDS
+add_core=PHI
+trade_goods = timber
+life_rating = 30
+terrain = plains
+fort = 2

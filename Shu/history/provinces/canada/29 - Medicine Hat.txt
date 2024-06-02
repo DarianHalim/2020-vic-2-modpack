@@ -1,0 +1,7 @@
+owner=UOR
+controller=UOR
+add_core=BLA
+add_core=UOR
+trade_goods = fruit
+life_rating = 35
+terrain = steppe

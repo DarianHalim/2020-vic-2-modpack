@@ -1,0 +1,8 @@
+owner=CDL
+controller=CDL
+add_core=CDL
+add_core=CHI
+trade_goods = grain
+life_rating = 32
+terrain = plains
+fort = 1

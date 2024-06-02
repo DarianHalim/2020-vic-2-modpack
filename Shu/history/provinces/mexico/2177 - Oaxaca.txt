@@ -1,0 +1,9 @@
+owner=X11
+controller=X11
+add_core=MIX
+add_core=OAX
+add_core=X11
+add_core=ZAP
+trade_goods = wool
+life_rating = 35
+terrain = mountain

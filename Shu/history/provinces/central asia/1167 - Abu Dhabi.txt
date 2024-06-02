@@ -1,0 +1,9 @@
+owner=TIM
+controller=TIM
+add_core=ARA
+add_core=TIM
+add_core=YAS
+trade_goods = grain
+life_rating = 35
+terrain = desert
+naval_base = 1

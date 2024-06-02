@@ -1,0 +1,7 @@
+owner=MOH
+controller=FLR
+add_core=MOH
+trade_goods = grain
+life_rating = 35
+terrain = woods
+fort = 1

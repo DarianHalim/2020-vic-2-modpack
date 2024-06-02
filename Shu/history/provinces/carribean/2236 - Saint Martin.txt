@@ -1,0 +1,8 @@
+owner=DOM
+controller=DOM
+add_core=DOM
+add_core=WSI
+trade_goods = coal
+life_rating = 35
+terrain = hills
+naval_base = 2

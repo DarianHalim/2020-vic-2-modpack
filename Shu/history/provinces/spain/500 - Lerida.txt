@@ -1,0 +1,8 @@
+owner=CAT
+controller=CAT
+add_core=CAT
+add_core=SPA
+trade_goods = tobacco
+life_rating = 35
+terrain = mountain
+fort = 1

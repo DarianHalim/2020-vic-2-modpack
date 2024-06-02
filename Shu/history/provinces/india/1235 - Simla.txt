@@ -1,0 +1,8 @@
+owner=SRH
+controller=TIM
+add_core=GHR
+add_core=HND
+add_core=SRH
+trade_goods = fruit
+life_rating = 32
+terrain = mountain

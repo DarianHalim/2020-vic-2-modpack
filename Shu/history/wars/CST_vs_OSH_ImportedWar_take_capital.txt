@@ -1,0 +1,17 @@
+name = "Castilian-Osheaga Imperialist War"
+
+1788.4.23 = {
+	add_attacker = CST
+	add_attacker = FLR
+	add_attacker = NEW
+	add_attacker = X15
+	add_defender = OSH
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = CST
+		receiver = OSH
+		country = OSH
+		state_province_id = 58
+	}
+}

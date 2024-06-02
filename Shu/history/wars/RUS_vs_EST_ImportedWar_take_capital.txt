@@ -1,0 +1,18 @@
+name = "Russian-Estonian Imperialist War"
+
+1790.1.10 = {
+	add_attacker = RUS
+	add_attacker = AUS
+	add_attacker = DEN
+	add_attacker = SWE
+	add_defender = EST
+	add_defender = PLC
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = RUS
+		receiver = EST
+		country = EST
+		state_province_id = 353
+	}
+}

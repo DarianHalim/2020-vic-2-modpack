@@ -1,0 +1,8 @@
+owner=BLC
+controller=BLC
+add_core=ARA
+add_core=BLC
+add_core=OMA
+trade_goods = timber
+life_rating = 35
+terrain = mountain

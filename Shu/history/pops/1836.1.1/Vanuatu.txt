@@ -1,0 +1,65 @@
+2535 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3016
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = protestant
+		size= 2273
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = protestant
+		size= 223
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = protestant
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = protestant
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = protestant
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = protestant
+		size= 25
+	}
+
+}

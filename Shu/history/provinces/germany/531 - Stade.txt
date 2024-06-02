@@ -1,0 +1,9 @@
+owner=LNB
+controller=DEN
+add_core=BRE
+add_core=GER
+add_core=LNB
+trade_goods = timber
+life_rating = 40
+terrain = plains
+naval_base = 1

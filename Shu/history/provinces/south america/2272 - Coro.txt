@@ -1,0 +1,8 @@
+owner=MCA
+controller=CAB
+add_core=CAB
+add_core=MCA
+trade_goods = cattle
+life_rating = 30
+terrain = hills
+naval_base = 2

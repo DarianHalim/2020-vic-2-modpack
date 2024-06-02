@@ -1,0 +1,9 @@
+owner=PLC
+controller=RUS
+add_core=GER
+add_core=PLC
+add_core=X08
+trade_goods = cotton
+life_rating = 40
+terrain = farmlands
+naval_base = 1

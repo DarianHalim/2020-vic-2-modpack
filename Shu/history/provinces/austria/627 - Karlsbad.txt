@@ -1,0 +1,16 @@
+owner=HES
+controller=HES
+add_core=BOH
+add_core=CZE
+add_core=CZH
+add_core=HES
+trade_goods = iron
+life_rating = 35
+terrain = hills
+fort = 1
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

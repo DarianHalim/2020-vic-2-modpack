@@ -1,0 +1,12 @@
+owner=PGS
+controller=PGS
+add_core=BRU
+add_core=MDS
+add_core=MGD
+add_core=MNA
+add_core=PGS
+add_core=PHI
+trade_goods = fish
+life_rating = 30
+terrain = plains
+fort = 1

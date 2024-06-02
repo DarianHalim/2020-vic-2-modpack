@@ -1,0 +1,14 @@
+owner=CST
+controller=CST
+add_core=CST
+add_core=SPA
+add_core=X02
+trade_goods = coal
+life_rating = 35
+terrain = hills
+state_building=
+{
+	level=1
+	building = luxury_furniture_factory
+	upgrade = yes
+}

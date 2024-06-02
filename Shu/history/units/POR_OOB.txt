@@ -1,0 +1,1483 @@
+#Sphere of Influence
+
+AAC = {
+	value = 92
+	influence_value = 10
+	level = 2
+}
+ACO = {
+	value = 0
+	level = 2
+}
+AGG = {
+	value = 48
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALS = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 177
+	influence_value = 31
+	level = 4
+}
+ATW = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+AUK = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = -11
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AVI = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+BAD = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 4
+	level = 2
+}
+BGA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BMN = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BRB = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+BRE = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CAB = {
+	value = 147
+	influence_value = 24
+	level = 3
+}
+CAL = {
+	value = 179
+	military_access = yes
+	influence_value = 82
+	level = 5
+}
+CAN = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+CAO = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+CAS = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CCA = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CGS = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+CMI = {
+	value = 0
+	level = 2
+}
+COF = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+COO = {
+	value = -21
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = -24
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+CYG = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAK = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = -11
+	level = 2
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DNG = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 93
+	military_access = yes
+	influence_value = 60
+	level = 5
+}
+DTT = {
+	value = 0
+	level = 2
+}
+EFR = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ERY = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+ETO = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+FRA = {
+	value = -126
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+FRM = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GOS = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 2
+	level = 2
+}
+HLL = {
+	value = -70
+	level = 2
+}
+HSC = {
+	value = 0
+	level = 2
+}
+HUA = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICH = {
+	value = 53
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+INN = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JNP = {
+	value = 0
+	level = 2
+}
+JOA = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KLE = {
+	value = 0
+	level = 2
+}
+KNI = {
+	value = 0
+	level = 2
+}
+KNZ = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 30
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSK = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+KSP = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNB = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LUX = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MCA = {
+	value = -8
+	level = 2
+}
+MDS = {
+	value = 0
+	level = 2
+}
+MEM = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MHC = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 16
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLD = {
+	value = 0
+	level = 2
+}
+MLH = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+MLI = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MLS = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MMI = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOH = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+MOR = {
+	value = -82
+	level = 2
+}
+MUN = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NAS = {
+	value = 0
+	level = 2
+}
+NAV = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 52
+	level = 2
+}
+NRM = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OEO = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+OLD = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+ONO = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OSH = {
+	value = 44
+	level = 2
+}
+PAD = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEN = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+PEO = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+PEQ = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+PEU = {
+	value = 286
+	military_access = yes
+	influence_value = 109
+	level = 5
+}
+PGS = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+POT = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PTL = {
+	value = 0
+	level = 2
+}
+QOM = {
+	value = 0
+	level = 2
+}
+RIG = {
+	value = -11
+	level = 2
+}
+ROT = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -11
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 13
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNC = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SOF = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+SRB = {
+	value = 0
+	level = 2
+}
+SRD = {
+	value = 0
+	level = 2
+}
+SRH = {
+	value = 0
+	level = 2
+}
+STA = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 127
+	influence_value = 19
+	level = 3
+}
+SUS = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = -12
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TAI = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+THN = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+TIM = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+UBV = {
+	value = 0
+	level = 2
+}
+UOR = {
+	value = 175
+	military_access = yes
+	influence_value = 81
+	level = 5
+}
+URB = {
+	value = 0
+	level = 2
+}
+URU = {
+	value = 305
+	military_access = yes
+	influence_value = 113
+	level = 5
+}
+USA = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAM = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+WCR = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+WCY = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+WNR = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+WSI = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 138
+	influence_value = 22
+	level = 3
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 284
+	military_access = yes
+	influence_value = 108
+	level = 5
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 93
+	military_access = yes
+	influence_value = 60
+	level = 5
+}
+X12 = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+X13 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X14 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X15 = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+X16 = {
+	value = 192
+	military_access = yes
+	influence_value = 85
+	level = 5
+}
+YAO = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZBW = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+ZIA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="João VIII"
+	date="1773.1.3"
+	type=land
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="José Manuel de Faria"
+	date="1769.6.16"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Carlos Gomes"
+	date="1772.8.10"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Octávio Teixeira"
+	date="1774.4.7"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Uriel de Lemos"
+	date="1776.4.2"
+	type=land
+	personality="disciplined"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Alexandre de Andrade"
+	date="1777.2.4"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Bartolomeu de Mendonça"
+	date="1780.5.2"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Estevão de Braganza"
+	date="1784.10.3"
+	type=land
+	personality="audacious"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Gabriel de Andrade"
+	date="1789.8.16"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
+
+
+#Armies
+army = {
+	name="Exército de Algoa Bay"
+	location=248
+	regiment = {
+		name="1st Évora Artillery"
+		type=artillery
+		home=525
+	}
+	regiment = {
+		name="3rd Lisbon Artillery"
+		type=artillery
+		home=521
+	}
+}
+
+navy = {
+	name="Armada de Angra dos Vaqueiros"
+	location=2100
+	ship = {
+		name="1st Azores Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oporto Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Armada de Coast of Namibia"
+	location=2098
+	ship = {
+		name="Príncipe Real"
+		type=manowar
+	}
+	ship = {
+		name="Príncipe do Brazil"
+		type=manowar
+	}
+	ship = {
+		name="Rainha de Portugal"
+		type=manowar
+	}
+	ship = {
+		name="Afonso de Albuquerque"
+		type=manowar
+	}
+	ship = {
+		name="1st Lisbon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tetouan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Belém"
+		type=manowar
+	}
+}
+
+navy = {
+	name="Armada do Atlântico"
+	location=2096
+	ship = {
+		name="Fénix"
+		type=frigate
+	}
+	ship = {
+		name="Amazona"
+		type=frigate
+	}
+	ship = {
+		name="Cisne"
+		type=frigate
+	}
+	ship = {
+		name="Minerva"
+		type=frigate
+	}
+	ship = {
+		name="S. João Príncipe"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Armada de Cape of Good Hope"
+	location=1876
+	ship = {
+		name="1st Mossel Bay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bermuda Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Terço de Xhosa"
+	location=1448
+	regiment = {
+		name="1st Coimbra Infantry"
+		type=infantry
+		home=522
+	}
+	regiment = {
+		name="1st Lisbon Infantry"
+		type=infantry
+		home=521
+	}
+	regiment = {
+		name="1st Coimbra Artillery"
+		type=artillery
+		home=522
+	}
+	regiment = {
+		name="1st Oporto Artillery"
+		type=artillery
+		home=518
+	}
+	regiment = {
+		name="2nd Lisbon Infantry"
+		type=infantry
+		home=521
+	}
+	regiment = {
+		name="1st Covilhã Infantry"
+		type=infantry
+		home=520
+	}
+	regiment = {
+		name="1st Faro Artillery"
+		type=artillery
+		home=527
+	}
+	regiment = {
+		name="2nd Covilhã Artillery"
+		type=artillery
+		home=520
+	}
+}
+
+army = {
+	name="Terço de Lesser Namaqualand"
+	location=437
+	regiment = {
+		name="1st Setubal Infantry"
+		type=infantry
+		home=524
+	}
+	regiment = {
+		name="2nd Évora Artillery"
+		type=artillery
+		home=525
+	}
+	regiment = {
+		name="2nd Coimbra Infantry"
+		type=infantry
+		home=522
+	}
+	regiment = {
+		name="3rd Coimbra Infantry"
+		type=infantry
+		home=522
+	}
+	regiment = {
+		name="1st Cape Town Infantry"
+		type=infantry
+		home=2087
+	}
+	regiment = {
+		name="2nd Lisbon Artillery"
+		type=artillery
+		home=521
+	}
+	regiment = {
+		name="4th Évora Artillery"
+		type=artillery
+		home=525
+	}
+}
+
+army = {
+	name="Exército de Coimbra"
+	location=1876
+	regiment = {
+		name="1st Oporto Infantry"
+		type=infantry
+		home=518
+	}
+	regiment = {
+		name="1st Covilhã Artillery"
+		type=artillery
+		home=520
+	}
+	regiment = {
+		name="1st Abrantes Infantry"
+		type=infantry
+		home=523
+	}
+	regiment = {
+		name="2nd Abrantes Infantry"
+		type=infantry
+		home=523
+	}
+	regiment = {
+		name="2nd Oporto Artillery"
+		type=artillery
+		home=518
+	}
+}
+
+army = {
+	name="Terço de Tsinuk"
+	location=212
+	regiment = {
+		name="1st Vila Real Infantry"
+		type=infantry
+		home=519
+	}
+	regiment = {
+		name="1st Faro Infantry"
+		type=infantry
+		home=527
+	}
+	regiment = {
+		name="4th Coimbra Infantry"
+		type=infantry
+		home=522
+	}
+	regiment = {
+		name="2nd Vila Real Infantry"
+		type=infantry
+		home=519
+	}
+}
+
+navy = {
+	name="Armada Real"
+	location=2100
+	ship = {
+		name="1st Setubal Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cape Town Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Esquadra de Ternate"
+	location=521
+	ship = {
+		name="Princesa da Beira"
+		type=manowar
+	}
+	ship = {
+		name="Infante Dom Pedro"
+		type=manowar
+	}
+	ship = {
+		name="Medusa"
+		type=manowar
+	}
+}
+
+navy = {
+	name="Armada de Lusitanian Sea"
+	location=518
+	ship = {
+		name="N.Sra. da Graça"
+		type=frigate
+	}
+	ship = {
+		name="Pérola"
+		type=frigate
+	}
+	ship = {
+		name="Princesa Carlota"
+		type=frigate
+	}
+	ship = {
+		name="Princesa"
+		type=frigate
+	}
+	ship = {
+		name="Príncipe da Beira"
+		type=frigate
+	}
+	ship = {
+		name="Tristão"
+		type=frigate
+	}
+	ship = {
+		name="Ulisses"
+		type=frigate
+	}
+	ship = {
+		name="Vénus"
+		type=frigate
+	}
+	ship = {
+		name="Golfinho"
+		type=frigate
+	}
+}
+
+army = {
+	name="Exército de Bogota"
+	location=2279
+	regiment = {
+		name="1st Lisbon Artillery"
+		type=artillery
+		home=521
+	}
+	regiment = {
+		name="3rd Évora Artillery"
+		type=artillery
+		home=525
+	}
+}
+
+navy = {
+	name="Armada de Canary Approach"
+	location=3031
+	ship = {
+		name="2nd Bermuda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mossel Bay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Faro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cape Verde Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Esquadra de Java Sea"
+	location=2810
+	ship = {
+		name="1st Cape Verde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Galápagos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Coimbra Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Azores Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Esquadra de Coast of Namibia"
+	location=2100
+	ship = {
+		name="3rd Azores Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Madeira Clipper Transport"
+		type=clipper_transport
+	}
+}
+

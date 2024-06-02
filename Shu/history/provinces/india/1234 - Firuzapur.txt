@@ -1,0 +1,9 @@
+owner=TIM
+controller=TIM
+add_core=PAN
+add_core=SRH
+add_core=TIM
+trade_goods = fish
+life_rating = 32
+terrain = plains
+fort = 1

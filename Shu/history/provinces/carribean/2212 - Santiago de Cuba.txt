@@ -1,0 +1,6 @@
+owner=DOM
+controller=DOM
+add_core=DOM
+trade_goods = fruit
+life_rating = 35
+terrain = mountain

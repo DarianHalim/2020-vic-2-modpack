@@ -1,0 +1,8 @@
+owner=TIM
+controller=TIM
+add_core=ARA
+add_core=OMA
+add_core=TIM
+trade_goods = wool
+life_rating = 35
+terrain = desert

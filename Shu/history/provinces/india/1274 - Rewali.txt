@@ -1,0 +1,7 @@
+owner=JNP
+controller=BNG
+add_core=HND
+add_core=JNP
+trade_goods = tea
+life_rating = 32
+terrain = hills

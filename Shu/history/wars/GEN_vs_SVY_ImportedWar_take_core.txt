@@ -1,0 +1,14 @@
+name = "Genoese Reconquest of Pisa"
+
+1789.8.4 = {
+	add_attacker = GEN
+	add_defender = SVY
+	add_defender = BRB
+
+	war_goal = {
+		casus_belli = acquire_core_state
+		actor = GEN
+		receiver = SVY
+		state_province_id = 745
+	}
+}

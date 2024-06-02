@@ -1,0 +1,1175 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALS = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 185
+	influence_value = 33
+	level = 4
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AVI = {
+	value = 0
+	level = 2
+}
+BAD = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BGA = {
+	value = 197
+	influence_value = 36
+	level = 4
+}
+BLC = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+BMN = {
+	value = 87
+	influence_value = 9
+	level = 2
+}
+BNG = {
+	value = -97
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BRB = {
+	value = 0
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRE = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CAB = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CGS = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CMI = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DNG = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+EFR = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+FRM = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GOS = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HSC = {
+	value = 0
+	level = 2
+}
+HUA = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+JNP = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KAS = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KLE = {
+	value = 0
+	level = 2
+}
+KNI = {
+	value = 0
+	level = 2
+}
+KNZ = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNB = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LUX = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MCA = {
+	value = 0
+	level = 2
+}
+MDS = {
+	value = 0
+	level = 2
+}
+MEM = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLD = {
+	value = 0
+	level = 2
+}
+MLH = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUN = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NAS = {
+	value = 0
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OLD = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+PAD = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+PGS = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PTL = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+QOM = {
+	value = 0
+	level = 2
+}
+RDL = {
+	value = 0
+	level = 2
+}
+RIG = {
+	value = 0
+	level = 2
+}
+ROT = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SOF = {
+	value = 0
+	level = 2
+}
+SRB = {
+	value = 0
+	level = 2
+}
+SRD = {
+	value = 0
+	level = 2
+}
+SRH = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TAI = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TIM = {
+	value = 182
+	influence_value = 33
+	level = 4
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+UBV = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+URU = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+YAS = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZBW = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Virupaksha Mangu"
+	date="1787.12.5"
+	type=sea
+	personality="tactful"
+	background="pawn"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=1322
+	regiment = {
+		name="1st Chitaldroog Infantry"
+		type=infantry
+		home=1315
+	}
+	regiment = {
+		name="1st Mangalore Infantry"
+		type=infantry
+		home=1316
+	}
+	regiment = {
+		name="2nd Chitaldroog Infantry"
+		type=infantry
+		home=1315
+	}
+	regiment = {
+		name="1st Kurnool Infantry"
+		type=infantry
+		home=1308
+	}
+	regiment = {
+		name="1st Belgaum Artillery"
+		type=artillery
+		home=1302
+	}
+	regiment = {
+		name="1st Gulbarga Artillery"
+		type=artillery
+		home=1286
+	}
+	regiment = {
+		name="2nd Belgaum Artillery"
+		type=artillery
+		home=1302
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1286
+	regiment = {
+		name="2nd Mangalore Infantry"
+		type=infantry
+		home=1316
+	}
+	regiment = {
+		name="1st Mysore Infantry"
+		type=infantry
+		home=1314
+	}
+	regiment = {
+		name="2nd Mysore Infantry"
+		type=infantry
+		home=1314
+	}
+	regiment = {
+		name="3rd Mangalore Infantry"
+		type=infantry
+		home=1316
+	}
+	regiment = {
+		name="1st Chitaldroog Artillery"
+		type=artillery
+		home=1315
+	}
+	regiment = {
+		name="1st Kurnool Artillery"
+		type=artillery
+		home=1308
+	}
+	regiment = {
+		name="1st Madras Infantry"
+		type=infantry
+		home=1304
+	}
+	regiment = {
+		name="1st Mysore Artillery"
+		type=artillery
+		home=1314
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=1301
+	ship = {
+		name="1st Tanjore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Pondicherry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Madras Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Belgaum Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Madras Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Madras Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1302
+	regiment = {
+		name="1st Kandy Infantry"
+		type=infantry
+		home=1323
+	}
+	regiment = {
+		name="1st Kolhapur Infantry"
+		type=infantry
+		home=1301
+	}
+	regiment = {
+		name="1st Bombay Infantry"
+		type=infantry
+		home=1297
+	}
+	regiment = {
+		name="2nd Kolhapur Infantry"
+		type=infantry
+		home=1301
+	}
+	regiment = {
+		name="2nd Chitaldroog Artillery"
+		type=artillery
+		home=1315
+	}
+	regiment = {
+		name="3rd Chitaldroog Artillery"
+		type=artillery
+		home=1315
+	}
+	regiment = {
+		name="1st Bijapur Infantry"
+		type=infantry
+		home=1300
+	}
+	regiment = {
+		name="1st Kolhapur Artillery"
+		type=artillery
+		home=1301
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2794
+	ship = {
+		name="1st Belgaum Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Madras Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Madras Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2793
+	ship = {
+		name="1st Goa Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=1312
+	ship = {
+		name="1st Madras Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pondicherry Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Pondicherry Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Belgaum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tanjore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Pondicherry Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Pondicherry Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tanjore Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1309
+	regiment = {
+		name="1st Nizamabad Infantry"
+		type=infantry
+		home=1285
+	}
+	regiment = {
+		name="1st Nellore Infantry"
+		type=infantry
+		home=1307
+	}
+	regiment = {
+		name="1st Poona Infantry"
+		type=infantry
+		home=1299
+	}
+	regiment = {
+		name="1st Gulbarga Infantry"
+		type=infantry
+		home=1286
+	}
+	regiment = {
+		name="4th Mangalore Infantry"
+		type=infantry
+		home=1316
+	}
+	regiment = {
+		name="3rd Chitaldroog Infantry"
+		type=infantry
+		home=1315
+	}
+	regiment = {
+		name="1st Madras Artillery"
+		type=artillery
+		home=1304
+	}
+	regiment = {
+		name="2nd Madras Artillery"
+		type=artillery
+		home=1304
+	}
+	regiment = {
+		name="1st Nellore Artillery"
+		type=artillery
+		home=1307
+	}
+	regiment = {
+		name="2nd Nellore Infantry"
+		type=infantry
+		home=1307
+	}
+	regiment = {
+		name="2nd Gulbarga Artillery"
+		type=artillery
+		home=1286
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1308
+	regiment = {
+		name="4th Chitaldroog Infantry"
+		type=infantry
+		home=1315
+	}
+	regiment = {
+		name="1st Bangalore Artillery"
+		type=artillery
+		home=1313
+	}
+	regiment = {
+		name="1st Bijapur Artillery"
+		type=artillery
+		home=1300
+	}
+	regiment = {
+		name="4th Chitaldroog Artillery"
+		type=artillery
+		home=1315
+	}
+	regiment = {
+		name="2nd Gulbarga Infantry"
+		type=infantry
+		home=1286
+	}
+}
+

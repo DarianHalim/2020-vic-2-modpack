@@ -1,0 +1,9 @@
+owner=QOM
+controller=QOM
+add_core=QOM
+add_core=RDL
+add_core=SRN
+trade_goods = opium
+life_rating = 35
+terrain = mountain
+fort = 1

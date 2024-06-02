@@ -1,0 +1,7 @@
+owner=ICH
+controller=ICH
+add_core=ICH
+trade_goods = tropical_wood
+life_rating = 35
+terrain = plains
+fort = 2

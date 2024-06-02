@@ -1,0 +1,15 @@
+name = "Kaskaskia-Cahokia Nationalist War"
+
+1784.6.8 = {
+	add_attacker = KSK
+	add_attacker = POT
+	add_defender = CAO
+	add_defender = OEO
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = KSK
+		receiver = CAO
+		state_province_id = 166
+	}
+}

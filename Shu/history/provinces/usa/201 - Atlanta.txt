@@ -1,0 +1,7 @@
+owner=COO
+controller=COO
+add_core=KSI
+trade_goods = grain
+life_rating = 35
+terrain = mountain
+fort = 2

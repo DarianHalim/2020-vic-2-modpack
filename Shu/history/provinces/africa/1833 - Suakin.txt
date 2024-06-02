@@ -1,0 +1,7 @@
+owner=TUR
+controller=TUR
+add_core=X01
+trade_goods = timber
+life_rating = 10
+terrain = mountain
+colonial=2

@@ -1,0 +1,7 @@
+owner=TID
+controller=TID
+trade_goods = fish
+life_rating = 30
+terrain = plains
+colonial=2
+fort = 1

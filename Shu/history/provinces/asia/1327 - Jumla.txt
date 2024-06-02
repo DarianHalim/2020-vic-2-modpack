@@ -1,0 +1,9 @@
+owner=SRH
+controller=SRH
+add_core=DNG
+add_core=HND
+add_core=KTU
+add_core=SRH
+trade_goods = tea
+life_rating = 25
+terrain = mountain

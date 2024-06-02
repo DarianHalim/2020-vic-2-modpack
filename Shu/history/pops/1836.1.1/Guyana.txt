@@ -1,0 +1,407 @@
+1979 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 270
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 377
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = inti
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = inti
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = inti
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = inti
+		size= 1
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = inti
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = inti
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = inti
+		size= 256
+	}
+
+}
+2239 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3943
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 5550
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 199
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 41
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 116
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = inti
+		size= 88
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = inti
+		size= 375
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = inti
+		size= 70
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = inti
+		size= 9
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = inti
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = inti
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = inti
+		size= 3768
+	}
+
+}
+2242 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 270
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 356
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = inti
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = inti
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = inti
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = inti
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = inti
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = inti
+		size= 254
+	}
+
+}
+2243 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 240
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3985
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 126
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 644
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 3521
+	}
+
+}

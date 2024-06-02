@@ -1,0 +1,8 @@
+owner=HSC
+controller=HSC
+add_core=ENG
+add_core=HSC
+add_core=SCO
+trade_goods = fruit
+life_rating = 35
+terrain = mountain

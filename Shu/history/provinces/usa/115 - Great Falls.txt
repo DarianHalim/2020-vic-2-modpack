@@ -1,0 +1,8 @@
+owner=X15
+controller=NEW
+add_core=ARP
+add_core=BLA
+add_core=X15
+trade_goods = coal
+life_rating = 35
+terrain = steppe

@@ -1,0 +1,130 @@
+2534 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 116
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 5669
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4086
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 417
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 90
+	}
+
+}
+2536 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 646
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = protestant
+		size= 484
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = protestant
+		size= 48
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = protestant
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = protestant
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = protestant
+		size= 1
+	}
+
+}

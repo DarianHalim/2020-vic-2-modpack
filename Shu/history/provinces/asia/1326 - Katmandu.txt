@@ -1,0 +1,9 @@
+owner=DNG
+controller=BNG
+add_core=DNG
+add_core=HND
+add_core=KTU
+trade_goods = coal
+life_rating = 25
+terrain = mountain
+fort = 1

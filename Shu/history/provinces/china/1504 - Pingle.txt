@@ -1,0 +1,7 @@
+owner=MLC
+controller=MLC
+add_core=YUE
+trade_goods = cotton
+life_rating = 32
+terrain = hills
+colonial=2

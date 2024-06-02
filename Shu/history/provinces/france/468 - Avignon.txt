@@ -1,0 +1,10 @@
+owner=AVI
+controller=AVI
+add_core=AVI
+add_core=FRA
+add_core=OCC
+add_core=PRO
+trade_goods = grain
+life_rating = 32
+terrain = farmlands
+fort = 1

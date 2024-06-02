@@ -1,0 +1,8 @@
+owner=POR
+controller=DOM
+add_core=COW
+trade_goods = cotton
+life_rating = 35
+terrain = plains
+colonial=2
+fort = 1

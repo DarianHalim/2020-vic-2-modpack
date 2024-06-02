@@ -1,0 +1,9 @@
+owner=TIM
+controller=TIM
+add_core=CHG
+add_core=TIM
+add_core=TKS
+trade_goods = timber
+life_rating = 35
+terrain = mountain
+fort = 1

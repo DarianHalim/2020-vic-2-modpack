@@ -1,0 +1,8 @@
+owner=MJZ
+controller=CSH
+add_core=KHA
+add_core=MGL
+add_core=MJZ
+trade_goods = grain
+life_rating = 32
+terrain = plains

@@ -1,0 +1,12 @@
+owner=DOM
+controller=DOM
+add_core=DOM
+trade_goods = sulphur
+life_rating = 35
+terrain = mountain
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

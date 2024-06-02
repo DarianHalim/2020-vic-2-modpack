@@ -1,0 +1,6 @@
+owner=TIM
+controller=RUS
+add_core=TIM
+trade_goods = grain
+life_rating = 35
+terrain = forest

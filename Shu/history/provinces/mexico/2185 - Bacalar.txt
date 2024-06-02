@@ -1,0 +1,8 @@
+owner=DOM
+controller=DOM
+add_core=COC
+add_core=DOM
+add_core=ITZ
+trade_goods = timber
+life_rating = 30
+terrain = jungle

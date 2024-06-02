@@ -1,0 +1,1231 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+ACO = {
+	value = 0
+	level = 2
+}
+AGG = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALS = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATW = {
+	value = 0
+	level = 2
+}
+AUK = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = -11
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AVI = {
+	value = 0
+	level = 2
+}
+BAD = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BGA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BMN = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BRB = {
+	value = 0
+	level = 2
+}
+BRE = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CAB = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 50
+	level = 3
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 18
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CCA = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CGS = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CMI = {
+	value = 0
+	level = 2
+}
+COF = {
+	value = 0
+	level = 2
+}
+COO = {
+	value = -21
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+CYG = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAK = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = -11
+	level = 2
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DNG = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 50
+	level = 3
+}
+DTT = {
+	value = 0
+	level = 2
+}
+EFR = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ERY = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+ETO = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 14
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+FRM = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GOS = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 26
+	level = 2
+}
+HSC = {
+	value = 0
+	level = 2
+}
+HUA = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICH = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+INN = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JNP = {
+	value = 0
+	level = 2
+}
+JOA = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KAS = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KLE = {
+	value = 0
+	level = 2
+}
+KNI = {
+	value = 0
+	level = 2
+}
+KNZ = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSK = {
+	value = 0
+	level = 2
+}
+KSP = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNB = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LUX = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MCA = {
+	value = -77
+	level = 2
+}
+MDS = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MEM = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MHC = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLD = {
+	value = 0
+	level = 2
+}
+MLH = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLS = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MMI = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOH = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 23
+	level = 2
+}
+MUN = {
+	value = 0
+	level = 2
+}
+NAS = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OEO = {
+	value = 0
+	level = 2
+}
+OLD = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+ONO = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OSH = {
+	value = 0
+	level = 2
+}
+PAD = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEN = {
+	value = 0
+	level = 2
+}
+PEO = {
+	value = 0
+	level = 2
+}
+PEQ = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 243
+	influence_value = 48
+	level = 3
+}
+PGS = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 84
+	military_access = yes
+	influence_value = 8
+	level = 2
+}
+POT = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PTL = {
+	value = 0
+	level = 2
+}
+QOM = {
+	value = 0
+	level = 2
+}
+RIG = {
+	value = -11
+	level = 2
+}
+ROT = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -11
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNC = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SOF = {
+	value = 0
+	level = 2
+}
+SRB = {
+	value = 0
+	level = 2
+}
+SRD = {
+	value = 0
+	level = 2
+}
+SRH = {
+	value = 0
+	level = 2
+}
+STA = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SUS = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = -12
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TAI = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+THN = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TIM = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+UBV = {
+	value = 0
+	level = 2
+}
+UOR = {
+	value = 50
+	level = 3
+}
+URB = {
+	value = 0
+	level = 2
+}
+URU = {
+	value = 239
+	influence_value = 47
+	level = 3
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 17
+	level = 2
+}
+WAM = {
+	value = 0
+	level = 2
+}
+WCR = {
+	value = 0
+	level = 2
+}
+WCY = {
+	value = 0
+	level = 2
+}
+WNR = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 191
+	influence_value = 35
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+YAS = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZBW = {
+	value = 0
+	level = 2
+}
+ZIA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Álvaro Dias"
+	date="1767.9.18"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Dinis da Costa"
+	date="1773.7.31"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Nicolau Mendonça Furtado"
+	date="1779.3.14"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="João da Gama"
+	date="1782.12.23"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Jorge Nunes Barreto"
+	date="1784.1.19"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Teodósio de Faria"
+	date="1785.11.16"
+	type=land
+	personality="persistant"
+	background="brownnoser"
+}
+
+leader = {
+	name="Sebastião Eanes"
+	date="1790.1.2"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Fernando de Carvalho"
+	date="1790.9.12"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=2186
+	regiment = {
+		name="1st Collataro Infantry"
+		type=infantry
+		home=2178
+	}
+	regiment = {
+		name="1st Tapachula Infantry"
+		type=infantry
+		home=2182
+	}
+	regiment = {
+		name="1st Tulancingo Infantry"
+		type=infantry
+		home=2175
+	}
+	regiment = {
+		name="1st Puebla Artillery"
+		type=artillery
+		home=2176
+	}
+	regiment = {
+		name="2nd Mexico City Infantry"
+		type=infantry
+		home=2172
+	}
+	regiment = {
+		name="2nd Oaxaca Artillery"
+		type=artillery
+		home=2177
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2188
+	regiment = {
+		name="2nd Tapachula Infantry"
+		type=infantry
+		home=2182
+	}
+	regiment = {
+		name="1st Oaxaca Infantry"
+		type=infantry
+		home=2177
+	}
+	regiment = {
+		name="2nd Oaxaca Infantry"
+		type=infantry
+		home=2177
+	}
+	regiment = {
+		name="1st Tapachula Cavalry"
+		type=cavalry
+		home=2182
+	}
+	regiment = {
+		name="1st Mexico City Artillery"
+		type=artillery
+		home=2172
+	}
+	regiment = {
+		name="1st Acapulco Infantry"
+		type=infantry
+		home=2179
+	}
+	regiment = {
+		name="1st Toluca Cavalry"
+		type=cavalry
+		home=2174
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2194
+	regiment = {
+		name="1st Veracruz Infantry"
+		type=infantry
+		home=2162
+	}
+	regiment = {
+		name="2nd Tulancingo Infantry"
+		type=infantry
+		home=2175
+	}
+	regiment = {
+		name="1st Mexico City Infantry"
+		type=infantry
+		home=2172
+	}
+	regiment = {
+		name="3rd Tulancingo Infantry"
+		type=infantry
+		home=2175
+	}
+	regiment = {
+		name="1st Oaxaca Artillery"
+		type=artillery
+		home=2177
+	}
+	regiment = {
+		name="3rd Oaxaca Artillery"
+		type=artillery
+		home=2177
+	}
+}
+
+army = {
+	name="15th Army"
+	location=2177
+	regiment = {
+		name="1st Puebla Infantry"
+		type=infantry
+		home=2176
+	}
+	regiment = {
+		name="1st Chilpancingo Artillery"
+		type=artillery
+		home=2180
+	}
+	regiment = {
+		name="3rd Oaxaca Infantry"
+		type=infantry
+		home=2177
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2162
+	ship = {
+		name="1st Acapulco Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Veracruz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Acapulco Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Acapulco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Acapulco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Acapulco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Acapulco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Acapulco Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Veracruz Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2162
+	ship = {
+		name="7th Acapulco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tapachula Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Tapachula Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Tapachula Frigate"
+		type=frigate
+	}
+}
+

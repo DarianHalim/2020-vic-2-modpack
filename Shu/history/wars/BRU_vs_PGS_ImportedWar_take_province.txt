@@ -1,0 +1,14 @@
+name = "Bruneian-Maynilan Nationalist War"
+
+1789.12.14 = {
+	add_attacker = BRU
+	add_attacker = SUL
+	add_defender = PGS
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = BRU
+		receiver = PGS
+		state_province_id = 1455
+	}
+}

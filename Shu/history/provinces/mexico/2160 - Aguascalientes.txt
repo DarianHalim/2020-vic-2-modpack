@@ -1,0 +1,7 @@
+owner=X11
+controller=X11
+add_core=X11
+add_core=XAL
+trade_goods = tobacco
+life_rating = 35
+terrain = mountain

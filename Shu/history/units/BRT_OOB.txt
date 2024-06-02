@@ -1,0 +1,1141 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+ACO = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+AGG = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALS = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATW = {
+	value = 0
+	level = 2
+}
+AUK = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+AUP = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 46
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AVI = {
+	value = 0
+	level = 2
+}
+BAD = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 37
+	level = 2
+}
+BGA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BMN = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BRB = {
+	value = 9
+	level = 2
+}
+BRE = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = -6
+	level = 2
+}
+BRZ = {
+	value = 199
+	influence_value = 37
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CAB = {
+	value = 25
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+CAO = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CCA = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 98
+	influence_value = 12
+	level = 2
+}
+CGS = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CMI = {
+	value = 0
+	level = 2
+}
+COF = {
+	value = 0
+	level = 2
+}
+COO = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+CYG = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAK = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DNG = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+EFR = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 161
+	influence_value = 27
+	level = 4
+}
+ERY = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+ETO = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+FRM = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 191
+	influence_value = 35
+	level = 4
+}
+GOS = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 25
+	level = 2
+}
+HSC = {
+	value = 0
+	level = 2
+}
+HUA = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICH = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+INN = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JNP = {
+	value = 0
+	level = 2
+}
+JOA = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KLE = {
+	value = 0
+	level = 2
+}
+KNI = {
+	value = 0
+	level = 2
+}
+KNZ = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSK = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+KSP = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNB = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LUX = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MCA = {
+	value = 0
+	level = 2
+}
+MDS = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+MEM = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 104
+	influence_value = 13
+	level = 2
+}
+MHC = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 102
+	influence_value = 13
+	level = 3
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLD = {
+	value = 0
+	level = 2
+}
+MLH = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = -15
+	level = 2
+}
+MLS = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MMI = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOH = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+MOR = {
+	value = 25
+	level = 2
+}
+MUN = {
+	value = 0
+	level = 2
+}
+NAS = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 165
+	influence_value = 28
+	level = 3
+}
+NUB = {
+	value = 0
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+NZK = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OEO = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+OLD = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+ONO = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OSH = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+PAD = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEN = {
+	value = 0
+	level = 2
+}
+PEO = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+PEQ = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGS = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+POT = {
+	value = 0
+	level = 2
+}
+PTL = {
+	value = 0
+	level = 2
+}
+QOM = {
+	value = 0
+	level = 2
+}
+RIG = {
+	value = 0
+	level = 2
+}
+ROT = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 188
+	influence_value = 34
+	level = 4
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNC = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+SNZ = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+SOF = {
+	value = 25
+	level = 2
+}
+SRB = {
+	value = 0
+	level = 2
+}
+SRH = {
+	value = 0
+	level = 2
+}
+STA = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SUS = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 127
+	influence_value = 19
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TAI = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 15
+	level = 2
+}
+THN = {
+	value = 22
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TIM = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 25
+	level = 2
+}
+TUR = {
+	value = -12
+	level = 2
+}
+UBV = {
+	value = 0
+	level = 2
+}
+UOR = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+URU = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 163
+	military_access = yes
+	influence_value = 78
+	level = 5
+}
+VEN = {
+	value = -16
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAM = {
+	value = 0
+	level = 2
+}
+WCR = {
+	value = 0
+	level = 2
+}
+WCY = {
+	value = 0
+	level = 2
+}
+WNR = {
+	value = 7
+	level = 2
+}
+WSI = {
+	value = 168
+	military_access = yes
+	influence_value = 79
+	level = 5
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 175
+	military_access = yes
+	influence_value = 81
+	level = 5
+}
+X13 = {
+	value = 47
+	level = 2
+}
+X14 = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 69
+	influence_value = 4
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZBW = {
+	value = 0
+	level = 2
+}
+ZIA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="François VIII"
+	date="1782.9.4"
+	type=land
+	personality="persistant"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Gwenneg de Coëtmen"
+	date="1768.6.21"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Sklaer de Kersulguen"
+	date="1770.1.2"
+	type=land
+	personality="earnest"
+	background="armchair_general"
+}
+
+leader = {
+	name="Corentin de Penguem"
+	date="1783.6.30"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Similien de Tréméreuc"
+	date="1785.3.21"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="François de Beaumetz"
+	date="1787.5.5"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=1907
+	ship = {
+		name="Alexandre"
+		type=manowar
+	}
+	ship = {
+		name="Breslaw"
+		type=manowar
+	}
+}
+
+army = {
+	name="Armée de Cornouaille"
+	location=1687
+	regiment = {
+		name="1st Kintampo Infantry"
+		type=infantry
+		home=1911
+	}
+	regiment = {
+		name="1st Brest Artillery"
+		type=artillery
+		home=420
+	}
+	regiment = {
+		name="1st Brest Infantry"
+		type=infantry
+		home=420
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2919
+	ship = {
+		name="1st Grand Bassam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fernando Pó Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Armée du Trégor"
+	location=518
+	regiment = {
+		name="1st Cotonou Infantry"
+		type=infantry
+		home=1919
+	}
+	regiment = {
+		name="1st Kumasi Infantry"
+		type=infantry
+		home=1910
+	}
+	regiment = {
+		name="1st St Brieuc Infantry"
+		type=infantry
+		home=421
+	}
+	regiment = {
+		name="1st Rennes Infantry"
+		type=infantry
+		home=424
+	}
+	regiment = {
+		name="2nd Brest Artillery"
+		type=artillery
+		home=420
+	}
+	regiment = {
+		name="1st Vannes Artillery"
+		type=artillery
+		home=422
+	}
+	regiment = {
+		name="1st Rennes Artillery"
+		type=artillery
+		home=424
+	}
+	regiment = {
+		name="2nd Kumasi Infantry"
+		type=infantry
+		home=1910
+	}
+	regiment = {
+		name="2nd Vannes Artillery"
+		type=artillery
+		home=422
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2921
+	ship = {
+		name="1st Cape Coast Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Grand Bassam Clipper Transport"
+		type=clipper_transport
+	}
+}
+

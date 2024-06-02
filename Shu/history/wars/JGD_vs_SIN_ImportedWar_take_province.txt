@@ -1,0 +1,16 @@
+name = "Junagarhi-Sindhi Nationalist War"
+
+1790.3.3 = {
+	add_attacker = JGD
+	add_attacker = MAW
+	add_attacker = MEW
+	add_defender = SIN
+	add_defender = JNP
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = JGD
+		receiver = SIN
+		state_province_id = 1290
+	}
+}

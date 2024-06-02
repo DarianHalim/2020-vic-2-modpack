@@ -1,0 +1,8 @@
+owner=X11
+controller=X11
+add_core=KAQ
+add_core=KIC
+add_core=X11
+trade_goods = wool
+life_rating = 30
+terrain = plains

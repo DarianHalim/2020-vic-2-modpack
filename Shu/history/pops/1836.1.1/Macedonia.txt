@@ -1,0 +1,200 @@
+806 = {
+	soldiers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 474
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 785
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 149
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 24
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 199
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 43644
+	}
+
+	soldiers=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 547
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 2597
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 490
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 78
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 658
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 47603
+	}
+
+}
+807 = {
+	soldiers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 303
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 372
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 15
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 127
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 28248
+	}
+
+	soldiers=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 327
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 1174
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 292
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 48
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 402
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 28745
+	}
+
+}

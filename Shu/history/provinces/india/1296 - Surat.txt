@@ -1,0 +1,9 @@
+owner=BLC
+controller=BLC
+add_core=BGA
+add_core=BLC
+add_core=GUJ
+add_core=HND
+trade_goods = grain
+life_rating = 32
+terrain = plains

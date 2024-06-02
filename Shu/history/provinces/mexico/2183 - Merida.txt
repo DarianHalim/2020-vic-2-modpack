@@ -1,0 +1,9 @@
+owner=DOM
+controller=DOM
+add_core=COC
+add_core=DOM
+add_core=XIU
+trade_goods = grain
+life_rating = 30
+terrain = jungle
+naval_base = 1

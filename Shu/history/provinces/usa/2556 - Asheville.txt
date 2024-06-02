@@ -1,0 +1,6 @@
+owner=JOA
+controller=ETO
+add_core=JOA
+trade_goods = tobacco
+life_rating = 35
+terrain = mountain

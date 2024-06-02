@@ -1,0 +1,7 @@
+owner=AGG
+controller=AGG
+add_core=AGG
+add_core=MSG
+trade_goods = coal
+life_rating = 35
+terrain = forest

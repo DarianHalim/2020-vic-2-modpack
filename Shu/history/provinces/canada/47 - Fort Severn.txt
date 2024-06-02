@@ -1,0 +1,12 @@
+owner=NEW
+controller=NEW
+add_core=NEW
+trade_goods = fish
+life_rating = 35
+terrain = forest
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

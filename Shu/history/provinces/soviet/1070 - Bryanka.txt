@@ -1,0 +1,11 @@
+owner=RUS
+controller=RUS
+trade_goods = coal
+life_rating = 15
+terrain = forest
+state_building=
+{
+	level=1
+	building = cement_factory
+	upgrade = yes
+}
